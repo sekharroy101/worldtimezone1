@@ -24,7 +24,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 		<ee:transform doc:name="Transform Message" doc:id="bbc24193-1347-462f-bf60-f54733f56b87" >
 			<ee:message >
 				<ee:set-payload ><![CDATA[%dw 2.0
-output application
+output applicati
 ]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
