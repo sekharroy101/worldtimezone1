@@ -40,6 +40,7 @@
 				<applicationName>worldTime-service</applicationName>
 				<password>Parmita1!</password>
 				<muleVersion>4.3.0</muleVersion>
+				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
