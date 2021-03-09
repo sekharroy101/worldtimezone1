@@ -21,5 +21,6 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 	region : attributes.uriParams.region
 }]]]></http:uri-params>
 		</http:request>
+		<logger level="INFO" doc:name="Logger" doc:id="8b23862d-85d2-47ff-bef7-f4df9eb4463b" message="success timezone"/>
 	</flow>
 </mule>
